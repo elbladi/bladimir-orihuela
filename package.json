@@ -5,11 +5,15 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "parcel-bundler": "^1.11.0"
+    "parcel-bundler": "^1.11.0",
+    "rimraf": "^2.6.3",
+    "sass": "^1.17.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel src/index.html"
+    "start": "parcel src/index.html",
+    "prebuild": "rimraf dist",
+    "build": "parcel build src/index.html"
   },
   "repository": {
     "type": "git",
