@@ -4,11 +4,21 @@
   "description": "",
   "main": "index.html",
   "scripts": {
+    "start": "parcel ./index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
-    "parcel-bundler": "^1.11.0"
-  }
+    "parcel-bundler": "^1.11.0",
+    "sass": "^1.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elbladi/bladimir-orihuela.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elbladi/bladimir-orihuela/issues"
+  },
+  "homepage": "https://github.com/elbladi/bladimir-orihuela#readme"
 }
