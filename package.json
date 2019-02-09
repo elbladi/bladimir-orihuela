@@ -5,7 +5,9 @@
   "main": "index.html",
   "scripts": {
     "start": "parcel ./index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prebuild": "rimraf dist",
+    "build": "parcel build ./index.html"
   },
   "author": "",
   "license": "MIT",
@@ -15,7 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elbladi/bladimir-orihuela.git"
+    "url": "git+https://github.com/elbladi/bladimir-orihuela.git",
+    "rimraf": "2.6.2",
+    "sass": "1.14.2"
   },
   "bugs": {
     "url": "https://github.com/elbladi/bladimir-orihuela/issues"
