@@ -1,0 +1,16 @@
+.card_foot_location {
+	margin-bottom: 1em
+}
+.card_foot_contact {
+	display: flex;
+	width: 13em;
+	justify-content: space-between
+}
+
+@media screen and (min-width:36em) {
+    .card_foot {
+		display: flex;
+		margin-bottom: 1em;
+		justify-content: space-between
+	}
+}
