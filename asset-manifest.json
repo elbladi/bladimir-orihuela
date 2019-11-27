@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/elbladi.github.io/static/css/main.f699656e.chunk.css",
+    "main.js": "/elbladi.github.io/static/js/main.1464e95a.chunk.js",
+    "main.js.map": "/elbladi.github.io/static/js/main.1464e95a.chunk.js.map",
+    "runtime-main.js": "/elbladi.github.io/static/js/runtime-main.ee0cb368.js",
+    "runtime-main.js.map": "/elbladi.github.io/static/js/runtime-main.ee0cb368.js.map",
+    "static/js/2.151b0435.chunk.js": "/elbladi.github.io/static/js/2.151b0435.chunk.js",
+    "static/js/2.151b0435.chunk.js.map": "/elbladi.github.io/static/js/2.151b0435.chunk.js.map",
+    "index.html": "/elbladi.github.io/index.html",
+    "precache-manifest.413b75f82a6cd47529f8ba955d7feb8a.js": "/elbladi.github.io/precache-manifest.413b75f82a6cd47529f8ba955d7feb8a.js",
+    "service-worker.js": "/elbladi.github.io/service-worker.js",
+    "static/css/main.f699656e.chunk.css.map": "/elbladi.github.io/static/css/main.f699656e.chunk.css.map",
+    "static/media/Card.module.css": "/elbladi.github.io/static/media/playa.9dea2702.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee0cb368.js",
+    "static/js/2.151b0435.chunk.js",
+    "static/css/main.f699656e.chunk.css",
+    "static/js/main.1464e95a.chunk.js"
+  ]
+}
